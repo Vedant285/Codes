@@ -1,0 +1,4 @@
+Hello
+Total no of words in input file are: 10
+Total no of character in input file are: 19
+Total no of lines in input file are: 5

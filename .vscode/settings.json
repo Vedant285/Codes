@@ -1,0 +1,32 @@
+{
+    "files.associations": {
+        "ostream": "cpp",
+        "iostream": "cpp",
+        "bitset": "cpp",
+        "chrono": "cpp",
+        "algorithm": "cpp",
+        "new": "cpp",
+        "array": "c",
+        "deque": "c",
+        "forward_list": "c",
+        "list": "c",
+        "vector": "c",
+        "*.tcc": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "unordered_set": "c",
+        "regex": "cpp",
+        "initializer_list": "cpp",
+        "valarray": "cpp",
+        "cmath": "c",
+        "complex": "c"
+    },
+    "python.formatting.provider": "yapf",
+    "java.debug.settings.onBuildFailureProceed": true,
+    "C_Cpp.errorSquiggles": "disabled",
+    "python.testing.pytestArgs": [
+        "Python"
+    ],
+    "python.testing.unittestEnabled": false,
+    "python.testing.pytestEnabled": true
+}

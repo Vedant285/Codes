@@ -1,0 +1,18 @@
+from tkinter import *
+root=Tk()
+e=Entry(root,width=20,bg='Yellow').grid(row=0,column=0)
+    
+button1=Button(root,text="1",padx=10,pady=10).grid(row=1,column=0)
+button2=Button(root,text="2",padx=10,pady=10).grid(row=1,column=1)
+button3=Button(root,text="3",padx=10,pady=10).grid(row=1,column=2)
+button4=Button(root,text="4",padx=10,pady=10).grid(row=1,column=3)
+button5=Button(root,text="5",padx=10,pady=10).grid(row=1,column=4)
+button6=Button(root,text="6",padx=10,pady=10).grid(row=2,column=2)
+button7=Button(root,text="7",padx=10,pady=10).grid(row=3,column=0)
+button8=Button(root,text="8",padx=10,pady=10).grid(row=3,column=1)
+button9=Button(root,text="9",padx=10,pady=10).grid(row=3,column=2)
+button0=Button(root,text="0",padx=10,pady=10).grid(row=4,column=0)
+buttond=Button(root,text="/",padx=10,pady=10).grid(row=4,column=1)
+buttonm=Button(root,text="-",padx=10,pady=10).grid(row=4,column=2)
+buttona=Button(root,text="+",padx=10,pady=10).grid(row=4,column=3)
+root.mainloop()
